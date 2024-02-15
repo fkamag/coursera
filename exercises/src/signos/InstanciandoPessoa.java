@@ -3,7 +3,7 @@ package signos;
 public class InstanciandoPessoa {
 
   public static void main(String[] args) {
-    Pessoa pessoa1 = new Pessoa("20/01/1987");
+    Pessoa pessoa1 = new Pessoa("07/02/1987");
     Pessoa pessoa2 = new Pessoa("26/05/1970");
 
     System.out.println("Pessoa 1");
